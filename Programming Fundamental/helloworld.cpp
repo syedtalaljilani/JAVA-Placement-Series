@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 int main()
-{
-    cout << "Hello World!" << endl;
-    return 0;
+{  
+    int32_t a ;
+    cout << sizeof(a) << endl; 
+    string s ="HelloWorld";
+    cout << s << endl;
 }
