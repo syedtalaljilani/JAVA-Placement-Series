@@ -12,5 +12,14 @@ int main(){
     int i = 12.09l; // long double datatype 
     
     // Print all variable using cout function
+    cout << "a = " << a << endl;
+    cout << "b = " << b << endl;
+    cout << "c = " << c << endl;
+    cout << "d = " << d << endl;
+    cout << "e = " << e << endl;
+    cout << "f = " << f << endl;
+    cout << "g = " << g << endl;
+    cout << "h = " << h << endl;
+    cout << "i = " << i << endl;
     
 }
