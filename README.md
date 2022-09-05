@@ -1,4 +1,4 @@
-# Cpp-Placement-Series
+# Java-Placement-Series
 
 ### This Repo is consist of Three folder 
 
